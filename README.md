@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">USIC&T 28 | Data Science Enthusiast | Ex-Intern DRDO</h2>
+<h2 align="left">GGSIPU-USIC&T 28 | Full Stack Developer | Data Science Enthusiast | Ex-Intern DRDO</h2>
 
 ###
 
