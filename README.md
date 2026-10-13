@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">GGSIPU-USIC&T 28 | Full Stack Developer | Data Analytics | Data Science Enthusiast | Ex-Intern DRDO</h2>
+<h2 align="left">GGSIPU-USIC&T 28 | Full Stack Developer | Data Analytics | Machine Learning | Data Science | Ex-Intern DRDO</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data analysis & Power BI<br>🎯 Goals: Data Science</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning LLM & Langchain<br>🎯 Goals: AI Engineer</p>
 
 ###
 
